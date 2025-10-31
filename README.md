@@ -25,4 +25,57 @@ A deep learning project implementing a **Convolutional Neural Network (CNN)** fo
 ### 📊 Data Processing & Visualization
 - **[NumPy](https://numpy.org/)** – Numerical computing  
 - **[Pandas](https://pandas.pydata.org/)** – Data manipulation  
-- **[PIL (Pillow)](https://python-pillow.org/)** – Image
+- **[PIL (Pillow)](https://python-pillow.org/)** – Image processing  
+- **[Matplotlib](https://matplotlib.org/)** – Data visualization  
+- **[Seaborn](https://seaborn.pydata.org/)** – Statistical visualization  
+- **[Scikit-learn](https://scikit-learn.org/)** – Model evaluation  
+- **[KaggleHub](https://github.com/Kaggle/kagglehub)** – Dataset management  
+
+---
+
+## 🚀 Features
+
+### 🧠 Advanced Image Processing
+- Automatic image resizing (**128×128**)  
+- Pixel normalization  
+- Data augmentation with rotations and flips  
+- Balanced class distribution  
+
+---
+
+### 🧩 Robust CNN Architecture
+- 4-stage convolutional network  
+- Batch normalization  
+- Dropout regularization  
+- MaxPooling for feature selection  
+
+---
+
+### ⚙️ Performance Optimization
+- Early stopping  
+- Learning rate scheduling  
+- Model checkpointing  
+- GPU acceleration  
+
+---
+
+### 📈 Comprehensive Evaluation
+- Confusion matrix analysis  
+- ROC curve generation  
+
+---
+
+## 📂 Dataset
+The dataset is sourced from **[Kaggle](https://www.kaggle.com/)**, containing labeled microscopic images of white blood cells used for model training and testing.
+
+---
+
+## 🧪 Results
+- **Training Accuracy:** ~97%  
+- **Validation Accuracy:** ~95%  
+- **Model:** CNN built using Keras & TensorFlow  
+- **Visualization:** Confusion matrix and class-wise performance  
+
+---
+
+
